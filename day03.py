@@ -9,7 +9,7 @@ print(d)
 {'j': 2, 'e': 2, 'v': 1, 'a': 2, 'n': 1, 'y': 1, 'o': 1, 't': 1, 'h': 1, 'i': 1}
 print(dictionary)
 {'a': 1, 'b': 2, 'c': 3}
-details = {'name':'ganesh',
+ details = {'name':'ganesh',
             'no':26,
             'cgpa':9.2,
             'mbl no':9014805196}
